@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/demo-pei/static/css/main.ae42ac5f.css",
+    "main.js": "/demo-pei/static/js/main.601d032c.js",
+    "index.html": "/demo-pei/index.html",
+    "main.ae42ac5f.css.map": "/demo-pei/static/css/main.ae42ac5f.css.map",
+    "main.601d032c.js.map": "/demo-pei/static/js/main.601d032c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.601d032c.js"
+  ]
+}
